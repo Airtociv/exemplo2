@@ -1,0 +1,17 @@
+.titulo{
+    background-color: chartreuse;
+}
+
+.titulo-padrao{
+font-size: 40px;
+color: white;
+background-color: black;
+padding: 5px;
+}
+
+.titulo-alterna{
+font-size: 80px;
+color: purple;
+background-color: yellow;
+padding: 10px;
+}
